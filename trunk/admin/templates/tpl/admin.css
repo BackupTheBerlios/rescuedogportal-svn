@@ -1,0 +1,150 @@
+BODY {
+ BACKGROUND-COLOR: #ababab;
+ COLOR: #000000;
+ FONT-FAMILY: sans-serif;
+ FONT-SIZE: 12px;
+ SCROLLBAR-BASE-COLOR: #ababab;
+ SCROLLBAR-ARROW-COLOR: #000000;
+}
+
+P, TD, TR, TABLE {
+ FONT-FAMILY: sans-serif;
+ FONT-SIZE: 12px;
+}
+
+UL, LI {
+ FONT-FAMILY: sans-serif;
+ FONT-SIZE: 12px;
+}
+hr{
+	background-color: #000000;
+	border: 1px solid #000000;
+}
+
+A:LINK, A:VISITED, A:ACTIVE {
+ COLOR: #000000;
+ TEXT-DECORATION: underline;
+}
+
+A:HOVER {
+ COLOR: #000000;
+ TEXT-DECORATION: none;
+}
+
+SELECT, INPUT, TEXTAREA {
+ FONT-FAMILY: sans-serif;
+ COLOR: #000000;
+ FONT-SIZE: 12px;
+}
+
+.firstrow {
+ BACKGROUND-COLOR: #E2E2E2;
+}
+
+.secondrow {
+ BACKGROUND-COLOR: #CDCDCD;
+}
+
+.tblhead {
+	BACKGROUND-COLOR: #0099CC;
+	COLOR:#000000;
+	FONT-WEIGHT: bold;
+	background-image: url(../images/cellpic.gif);
+	border: 1px solid #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.tblsectionhead {
+	BACKGROUND-COLOR: #666666;
+	COLOR:#FFFFFF;
+	FONT-WEIGHT: bold;
+	border: 0px solid #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+
+.tblsection {
+	BACKGROUND-COLOR: #FFFFFF;
+	COLOR:#666666;
+	FONT-WEIGHT: bold;
+	border: 0px solid #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+
+
+.tblsection A:LINK, .tblsection A:VISITED, .tblsection A:ACTIVE {
+ COLOR: #c6c6c6;
+ TEXT-DECORATION: none;
+}
+
+.tblsection A:HOVER {
+ COLOR: #669999;
+ TEXT-DECORATION: underline;
+}
+
+.tblborder {
+ BACKGROUND-COLOR: #000000;
+}
+
+INPUT {
+ FONT-SIZE: 12px;
+ FONT-FAMILY: Tahoma,Helvetica;
+ COLOR: #000000;
+ BACKGROUND-COLOR: #ffffff;
+ 
+ border-top-width : 1px;
+ border-right-width : 1px;
+ border-bottom-width : 1px;
+ border-left-width : 1px;
+ text-indent : 2px;
+}
+/* Style for tree item text */
+.t0i {
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	background-color:  #E6E6E6;
+	text-decoration: none;
+}
+/* Style for tree item image */
+.t0im {
+	border: 0px;
+	width: 19px;
+	height: 16px;
+}
+
+.fehler {
+	font-family : Verdana, Tahoma, Arial, "Lucida Console", "Microsoft Sans Serif", "MS Sans Serif", "MS Serif";
+	font-size : 14px;
+	text-transform: none;
+	color : #ffffff;
+	background-color : #000000;
+	border : none #0099CC;
+	border-style : solid;
+	border-left-width : 1px;
+	border-top-width : 1px;
+	border-right-width : 1px;
+	border-bottom-width : 1px;
+	font-weight: bold;
+	height: 40px;
+} 
+
+.errorfont {
+ font-size: 13px;
+ font-weight: bold;
+ font-family : Verdana, Tahoma, Arial;
+ color : #FF0000;
+}
+
+.affiliatefont {
+ font-size: 10px;
+ font-weight: bold;
+ font-family : Verdana, Tahoma, Arial;
+ color : #000000;
+}

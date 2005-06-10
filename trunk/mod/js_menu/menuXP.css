@@ -1,0 +1,23 @@
+/* Style for a block - DIV */
+.mXPl0 {
+	background: #333333;	
+}
+.mXPl1 {
+	background: #333333;	
+}
+/* Style for level 0 outer tag, mout (mouse out) state */
+.mXPl0mouto {
+	background: #333333;
+}
+/* Style for root level text, mout state */
+.a0 {
+	font-family: Tahoma, MS Sans Serif;
+	font-size: 8pt;
+	color: white;
+}
+/* Style for root level text, mover, mdown states */
+.a1 {
+	font-family: Tahoma, MS Sans Serif;
+	background: #CED1C3;
+	font-size: 8pt;
+}

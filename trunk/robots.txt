@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /bilder/
+Disallow: /lib/
+Disallow: /mod/
+Disallow: /templates/
